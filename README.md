@@ -1,4 +1,4 @@
-# Artificial_intelligence_project
+# 영상 처리 _project
 task
 1. 개발
   * 파이썬 -> 플라스크 개발 
