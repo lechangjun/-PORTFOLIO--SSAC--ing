@@ -8,19 +8,7 @@ task
 
   https://google.github.io/styleguide/pyguide.html
   
-  def spiderimage():
-    print("            ______________                   ")
-    print("       __  /--------------\                  ")
-    print("      /  \/                \  ___            ")
-    print("     /_/\/-----------------|/ __ \           ")
-    print("    // \|              /\  | /\ \ \          ")
-    print("   |/ /\|-------------/  \ |/  \ \ \         ")
-    print("   / /  |   _____    / /\ \ \/\ \ \ \        ")
-    print("  / / /\ \ /       \/ /__\ \/  \ \ \ \       ")
-    print(" | / |  \_|        |_/    \ \   \ \ \ |      ")
-    print(" |_| |    |o O O o |       \ \   | ||_|      ")
-    print("   | |_   \________/       _\ \  |_|         ")
-    print("   |__|   |_     _|        |__|              ")
+ 
   
   
 2. AI
