@@ -8,6 +8,15 @@ task
 
   https://google.github.io/styleguide/pyguide.html
   
+  
+  
+  def slimeimage():
+    print("   UuUuUuUuUu")
+    print('  U          U ')
+    print(" U  o       o U")
+    print(' U      ---    U ')
+    print(" UuUuUuUuUuUuUuU")
+  
  
   
   
