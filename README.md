@@ -10,14 +10,7 @@ task
   
   
   
-  def slimeimage():
-    print("   UuUuUuUuUu")
-    print('  U          U ')
-    print(" U  o       o U")
-    print(' U      ---    U ')
-    print(" UuUuUuUuUuUuUuU")
-  
- 
+
   
   
 2. AI
