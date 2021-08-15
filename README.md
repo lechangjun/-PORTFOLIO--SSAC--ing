@@ -6,6 +6,10 @@ task
   * 파이썬 -> 문법 정리 (08/13) ( 진행 중)
 
 
+
+파이썬 목차
+
+
   https://google.github.io/styleguide/pyguide.html
   
   
