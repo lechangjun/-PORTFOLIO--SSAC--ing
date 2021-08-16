@@ -4,7 +4,7 @@
 ## Basics for Developing Python 🐉
 
 ### 1. 개발 (08/02 ~ 08/16)
-  * 파이썬 -> 플라스크 개발 (O)
+  * 파이썬 -> 플라스크 개발 (O)[기본 개념](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/WEB_development/flask)
   * 파이썬 -> 웹페이지 만들어 띠우기 (X)
   * 파이썬 -> 문법 정리 (08/13) ( 진행 중)
 
