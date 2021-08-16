@@ -1,14 +1,6 @@
-Toy-Projects_SSAC
+# Toy-Projects_SSAC ( )
 
-  
-https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/WEB_development/readme.md
-
-
-
-
-<img src="https://github.com/Nexters/Yetda_Android/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true" width="20%">
-
-#  ( )
+<img width="594" alt="image" src="https://user-images.githubusercontent.com/68671394/129550790-755a0976-72c5-4ce5-b188-0a96702688ee.png">
 
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg) ]()
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
@@ -16,7 +8,8 @@ https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/WEB_development/readme
 [![GooglePlay](https://img.shields.io/badge/google_play-Download-red?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexters.yetda.android)
 
 
-> ㅇ?
+> [Basics for Developing Python 🐉 => 파이썬 기본 기능과 웹 개발 ](https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/WEB_development/readme.md)
+
 
 > ㅇ
 
