@@ -7,7 +7,7 @@
 [![Language](https://img.shields.io/github/languages/top/Nexters/Yetda_Android)]()
 [![GooglePlay](https://img.shields.io/badge/google_play-Download-red?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexters.yetda.android)
 
-
+## 프로젝트 들어가기 전에 (Tech Stack) 
 > [Basics for Developing Python 🐉 => 파이썬 기본 기능과 웹 개발 ](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/WEB_development)
 
 
