@@ -3,9 +3,7 @@
 <img width="594" alt="image" src="https://user-images.githubusercontent.com/68671394/129550790-755a0976-72c5-4ce5-b188-0a96702688ee.png">
 
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg) ]()
-[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-[![Language](https://img.shields.io/github/languages/top/Nexters/Yetda_Android)]()
-[![GooglePlay](https://img.shields.io/badge/google_play-Download-red?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexters.yetda.android)
+
 
 ## 프로젝트 들어가기 전에 (Tech Stack) 
 > [Basics for Developing Python 🐉 => 파이썬 기본 기능과 웹 개발 ](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/WEB_development)
