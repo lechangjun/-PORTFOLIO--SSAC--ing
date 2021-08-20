@@ -9,9 +9,11 @@
 > [Basics for Developing Python 🐉 => 파이썬 기본 기능과 웹 개발 ](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/WEB_development)
 
 
-> ㅇ
+> MYSQL
 
-## :ㅇㅇ
+> 데이터 분석
+
+## 💃🏻:미니 프로젝트
 
 - ㅇ.
 - ㅇ.
