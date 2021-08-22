@@ -20,9 +20,14 @@
 - ㅇ.
 - ㅇ.
 
-## :fire: Firebase products
+## :fire: 개인 프로젝트
 
-ㅇ였다.
+     * [지도 APP 생성](개인)
+     * [지도 APP 가족 지인 지도 표시](개인)
+     * [지도 APP ](개인)
+     * [AWS 알람 기능 추가](개인)
+     * [앱 런칭](개인)
+
 
 - [Cloud Firestore](https://firebase.google.com/products/firestore?hl=ko)
   - Firestore에 세팅된 최신의 데이터를 앱 DB에 저장한다.
