@@ -11,7 +11,7 @@
 
 > MYSQL
 
-> 데이터 분석
+> [데이터 분석](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
 
 ## 💃🏻:미니 프로젝트
 
