@@ -9,7 +9,7 @@
 > [Basics for Developing Python 🐉 => 파이썬 기본 기능과 웹 개발 ](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/WEB_development)
 
 
-> [MYSQL 실습](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
+> [MYSQL 실습](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/MySQL8_Code)
 
 > [데이터 분석](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
 
