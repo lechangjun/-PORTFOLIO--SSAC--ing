@@ -25,7 +25,7 @@ If some project material such as data are missing, it is not possible to upload 
 
 ## Portfolio
 
-[PDF](https://github.com/otzslayer/data_science_portfolio/blob/master/portfolio.pdf) (Updated 21.08.22)
+[PDF]() (Updated 21.08.22)
 
 본 포트폴리오는 프로젝트 중 일부만을 간략히 다루고 있습니다. 자세한 프로젝트 내용이나 수록되어 있지 않은 내용은 본 깃허브 저장소를 통해서 확인해주시기 바랍니다.
 
@@ -33,6 +33,10 @@ This portfolio covers briefly only some of my projects. Please check this reposi
 
 ## Hardware / OS  Used
 computer specs
+
+(｡･-･) 💕⁾⁾ TEST
+
+
 AWS -> os = redhat8 (ram 1, core 1)
 ![image](https://user-images.githubusercontent.com/68671394/130338470-ccd58906-4c18-406a-9fd2-89f2e61a8e0c.png)
 
