@@ -1,47 +1,51 @@
-# LAMP on Ubuntu 18.04
 
-This playbook will install a LAMP environment (**L**inux, **A**pache, **M**ySQL and **P**HP) on an Ubuntu 18.04 machine, as explained in the guide on [How to Use Ansible to Install and Configure LAMP on Ubuntu 18.04](#). A virtualhost will be created with the options specified in the `vars/default.yml` variable file.
+# 데이터 베이스 개념
 
-## Settings
+## 데이터베이스 특징
+1) 데이터의 무결성(Integrity)
+⇐ 제약조건(Constraint)으로 데이터 무결성을 지원
+2) 데이터의 독립성(Isolation)
+⇐ DBMS에서 구현
+3) 보안(Security)
+⇐ 권한(Privileges)
+4) 데이터 중복 최소화
+⇐ 관계형데이터베이스 ⇐ 관계 대수
+5) 응용 프로그램 제작 및 수정이 쉬워짐
+6) 데이터의 안전성 향상
+⇐ 백업(Backup), 복원(Restore), 복구(Recover = Restore + Redo Log)
 
-- `mysql_root_password`: the password for the MySQL root account.
-- `app_user`: a remote non-root user on the Ansible host that will own the application files.
-- `http_host`: your domain name.
-- `http_conf`: the name of the configuration file that will be created within Apache.
-- `http_port`: HTTP port, default is 80.
-- `disable_default`: whether or not to disable the default Apache website. When set to true, your new virtualhost should be used as default website. Default is true.
+## 관계형데이터베이스(Relational DB)
+- 관계대수(Relational Algebra)에 기반하여 설계된 DB
+- Relation(관계) vs. Relationship(관계)
+⇒ 데이터의 집합 vs. 관련 있는 릴레이션을 표현
+⇒ 테이블(표) vs. 참조제약조건(Foreign Key)
+
+## 서브쿼리의 종류
+* 실행순서에 따라
+1) 중첩서브쿼리(Nested SQ)
+- 서브쿼리가 먼저 수행
+- 서브쿼리의 실행 결과를 메인 쿼리에서 활용
+⇒ 서브쿼리는 단 한 번만 실행
+2) 상호관련서브쿼리(상관서브쿼리, Correlated SQ)
+- 메인쿼리에서 후보행 선택
+- 서브쿼리에서 후보행의 데이터를 이용하여 실행
+- 서브쿼리의 실행 결과를 메인 쿼리에서 활용
+⇒ 서브쿼리가 후보행 개수만큼 실행
+* 중첩서브쿼리와 상호관련서브쿼리의 구별
+⇒ 서브쿼리의 WHERE 절에 조인조건이 있으면 상호관련서브쿼리
+* 조인조건인지 판별방법
+⇒ 서브쿼리의 WHERE 절에서 내부 테이블과 외부 테이블의 컬럼들이 비교될 때
+
+* 단일행 서브쿼리 vs. 다중행 서브쿼리
+⇒ 이에 따라 연산자가 달라지기 때문에 중요
+* 단일 컬럼 서브쿼리 vs. 다중 컬럼 서브쿼리
+* 스칼라 서브쿼리
 
 
-## Running this Playbook
+## 대부분의 RDBMS가 기본적으로 제공하는 제약 조건 5 가지
+1) PK
+2) UK
+3) FK
+4) CK
+5) NN
 
-Quickstart guide for those already familiar with Ansible:
-
-### 1. Obtain the playbook
-```shell
-git clone https://github.com/do-community/ansible-playbooks.git
-cd ansible-playbooks/lamp_ubuntu1804
-```
-
-### 2. Customize Options
-
-```shell
-nano vars/default.yml
-```
-
-```yml
----
-mysql_root_password: "mysql_root_password"
-app_user: "sammy"
-http_host: "your_domain"
-http_conf: "your_domain.conf"
-http_port: "80"
-disable_default: true
-```
-
-### 3. Run the Playbook
-
-```command
-ansible-playbook -l [target] -i [inventory file] -u [remote user] playbook.yml
-```
-
-For more information on how to run this Ansible setup, please check this guide: [soon]().
