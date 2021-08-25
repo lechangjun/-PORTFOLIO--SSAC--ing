@@ -49,3 +49,7 @@
 4) CK
 5) NN
 
+
+## SQL TEST 이미지
+
+![image](https://user-images.githubusercontent.com/68671394/130736815-893b7737-632c-4f0d-b8fc-c48013208f06.png)
