@@ -15,6 +15,8 @@
 
 > [데이터 분석](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
 
+> [ELK 엘라스틱 서치](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
+
 
 ## [💃🏻:미니 프로젝트](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/%5B%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%A1%5D%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B301_10%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB_%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB)
 
