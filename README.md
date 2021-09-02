@@ -37,37 +37,10 @@
      * [앱 런칭](개인)
 
 
-- [Cloud Firestore](https://firebase.google.com/products/firestore?hl=ko)
-  - Firestore에 세팅된 최신의 데이터를 앱 DB에 저장한다.
-- [Cloud Storage](https://firebase.google.com/products/storage?hl=ko)
-  - 앱 DB에 저장된 이미지 URL을 통해 Storage의 이미지를 호출한다.
-- [Crashlytics](https://firebase.google.com/products/crashlytics?hl=ko)
-  - 앱 이슈가 생기면 바로 대응할 수 있도록 Crashlytics를 세팅한다.
-- [Google 애널리틱스](https://firebase.google.com/products/analytics?hl=ko)
-  - 활성 사용자가 어느 정도되는지 파악한다.
-
-
 ## :프로젝트 소개
-
-Fㅇ.
-
-- Fㅇ 이후에ㅇ.
-
-```bash
-mRealm.where<Present>()
-            .not()
-            .beginGroup()
-            .`in`("tags.tag", tagList)
-            .endGroup()
-            .between("price", _startPrice, _endPrice).or().equalTo("price",0L)
-            .findAll()
-```
 
 
 ## : 핵심 코드
-- ㅇ.
-- 개ㅇ다.
-- 릴ㅇ린다.
 
 
 ## :open_file_folder: Open Source
@@ -78,13 +51,10 @@ mRealm.where<Present>()
 
 - `airbnb/lottie-android`
 
-네이티브 앱에서 high-quality 애니메이션(Json 파일)을 추가.
+;;;에서 high-quality 애니메이션(Json 파일)을 추가.
 
 
 ## :whale: Todo
-
-- 선ㅇ가한다.
-- 가ㅇ다.
 
 
 ## :baby_chick: Demo 이미지
