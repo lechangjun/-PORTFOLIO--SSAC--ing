@@ -24,24 +24,24 @@
 
 ## [🧸:미니 프로젝트 4조](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_4%ED%8C%80_%EC%9D%B4%EC%B0%BD%EC%A4%80_%EC%9C%A4%EC%A7%80%EC%9B%90_%EA%B3%BD%EC%8A%B9%ED%98%84)
 
-### 1. 미니 프로젝트 분석
+###   1. 미니 프로젝트 분석
 
 - [기획서](https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_4%ED%8C%80_%EC%9D%B4%EC%B0%BD%EC%A4%80_%EC%9C%A4%EC%A7%80%EC%9B%90_%EA%B3%BD%EC%8A%B9%ED%98%84/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_%EA%B8%B0%ED%9A%8D%EC%84%9C/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_4%ED%8C%80_%EA%B8%B0%ED%9A%8D%EC%84%9C.md)
 - [K8S 개념 정리](https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_4%ED%8C%80_%EC%9D%B4%EC%B0%BD%EC%A4%80_%EC%9C%A4%EC%A7%80%EC%9B%90_%EA%B3%BD%EC%8A%B9%ED%98%84/k3s/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC_k8s.md)
 - [NumPy_&&_Pandas](https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_4%ED%8C%80_%EC%9D%B4%EC%B0%BD%EC%A4%80_%EC%9C%A4%EC%A7%80%EC%9B%90_%EA%B3%BD%EC%8A%B9%ED%98%84/NumPy_Pandas/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
 
 
-### 2. 각자 주제 선정
+###   2. 각자 주제 선정
 
 - [한국 코로나 분석]()
 - [인도 코로나 분석]()
 
 
-### 3. 팀원 회의
+###   3. 팀원 회의
 - [주제 : 인도 코로나 분석]()
 
 
-### 4. GUI 환경 구성
+###   4. GUI 환경 구성
 
 ## :fire: 개인 프로젝트
 
