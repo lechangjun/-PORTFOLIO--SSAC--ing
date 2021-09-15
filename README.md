@@ -49,6 +49,8 @@
 - [동영상]()
 - 
 ## ![image](https://user-images.githubusercontent.com/68671394/133097960-711bd707-3633-4a80-865b-8d4e4604596d.png):[미니 프로젝트 4조]()
+###   1. 프로젝트 구상
+- [OpenCV]()
 
 ## :fire: 개인 프로젝트
 
