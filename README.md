@@ -70,7 +70,7 @@
 ## : 핵심 코드
 
 
-## :open_file_folder: Open Source
+## :open_file_folder: Open Source ,,
 
 - `bumptech/glide`
 
