@@ -70,7 +70,7 @@
 
 ###   1. 프로젝트 구상
 - [OpenCV 주제 선정]()
-
+face_detection-master
 
 
 
