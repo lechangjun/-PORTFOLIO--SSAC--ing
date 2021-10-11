@@ -104,9 +104,3 @@ face_detection-master
 
 </p>
 d
-
-## 이창준 바보
-ㅏ
-ㅏㅂ
-ㅏㅂㅗ
-
