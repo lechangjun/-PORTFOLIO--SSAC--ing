@@ -91,7 +91,7 @@ face_detection-master
 - [동영상]()
 
 ###   5. ADD
-
+[필리핀 코로나 현황 동영상](https://www.youtube.com/watch?v=dTjOaCOf7YY&t=198s)
 
 ## :프로젝트 소개
 
