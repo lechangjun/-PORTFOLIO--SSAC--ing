@@ -109,7 +109,7 @@ face_detection-master
 
 
 ## :프로젝트 소개
-
+    코로나
 
 ## : 핵심 코드
 
